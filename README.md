@@ -2,7 +2,7 @@
 
 ### Here my trophy 🏆 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jackytruongpro&theme=flat)](https://github.com/jackytruongpro/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jackytruongpro&theme=dracula)](https://github.com/jackytruongpro/github-profile-trophy)
 
 ### I mostly use :
 
