@@ -11,4 +11,4 @@
 ### Thats my stats :
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jackytruongpro&show_icons=true&theme=tokyonight)
 
-![](https://komarev.com/ghpvc/?username=jackytruongpro)
+![](https://komarev.com/ghpvc/?username=jackytruongpr)
