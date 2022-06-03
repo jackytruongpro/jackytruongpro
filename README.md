@@ -9,6 +9,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackytruongpro&langs_count=8)](https://github.com/jackytruongpro/github-readme-stats)
 
 ### Thats my stats :
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jackytruongpro&show_icons=true&theme=tokyonigh)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jackytruongpro&show_icons=true&theme=tokyonight)
 
 ![](https://komarev.com/ghpvc/?username=jackytruongpro)
